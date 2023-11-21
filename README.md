@@ -8,8 +8,8 @@
 
 1. Склонуйте репозиторій:
    ```bash
-   git clone https://github.com/ваш-логін/мій-flask-проєкт.git
-   cd мій-flask-проєкт
+   git clone https://github.com/eleonora3145/lab_3_flask.git
+   cd lab_3_flask
 
 2. Створіть віртуальне середовище за допомогою Poetry:
    ```bash
